@@ -37,7 +37,7 @@ I'm a self-taught developer who started learning to code about **1.5 years ago**
 ### 🌐 Let's Connect
 
 - Discord: `YourTag#0000`
-- GitHub: [github.com/yourusername](https://github.com/FreakyPython)
+- GitHub: [github.com/FreakyPython](https://github.com/FreakyPython)
 
 ---
 
