@@ -7,6 +7,8 @@ I'm a self-taught developer who started learning to code about **1 year ago**. I
 ### 🛠️ What I'm Working On
 
 - 🚀 **MarketPulse 📊** – a real-time crypto & stock Discord bot with charts, news, and sentiment analysis
+- [![Click Here](https://img.shields.io/badge/Click%20Here-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
+
 - 🧠 Expanding beyond Discord bots into full-stack and automation projects
 - 💡 Learning more about APIs, backend systems, and project structure
 
