@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm [Noob_Coder]
 
-I'm a self-taught developer who started learning to code about **1.5 years ago**. I'm passionate about Python 🐍 and love building projects that help others — especially Discord bots!
+I'm a self-taught developer who started learning to code about **1 ago**. I'm passionate about Python 🐍 and love building projects that help others — especially Discord bots!
 
 ---
 
