@@ -1,46 +1,82 @@
-### 👋 Hey there! I'm [Noob_Coder]
+## 👋 Hey there! I'm Noob_Coder
 
-I'm a self-taught developer who started learning to code about **1 year ago**. I'm passionate about Python 🐍 and love building projects that help others — especially Discord bots!
+I'm a **self-taught Python developer** with about **1 year of hands-on experience**, focused on building **useful, real-world projects** — especially **Discord bots** and API-driven tools.
 
----
-
-### 🛠️ What I'm Working On
-
-- 🚀 **MarketPulse 📊** – a real-time crypto & stock Discord bot with charts, news, and sentiment analysis
-- [![Click Here](https://img.shields.io/badge/Click%20Here-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
-
-- 🧠 Expanding beyond Discord bots into full-stack and automation projects
-- 💡 Learning more about APIs, backend systems, and project structure
+I enjoy turning ideas into working systems, learning by building, and improving my code structure with every project 🐍
 
 ---
 
-### 🎯 My Goals
+## 🛠️ What I'm Working On
 
-- 👨‍💻 Get better at Python and software development
-- 💼 Land my first job in the coding/tech field
-- 🛠️ Build useful tools and contribute to open-source projects
+### 🚀 MarketPulse 📊
+A real-time **crypto & stock Discord bot** featuring:
+- 📈 Price tracking & summaries
+- 📰 Market news
+- 🧠 Sentiment analysis
+- ⚡ Slash commands & clean embeds
+- ☁️ Deployed with **Git + Railway**
+
+🔗 **Invite the bot**
+[![Invite Bot](https://img.shields.io/badge/Invite%20Bot-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-- **Languages**: Python, HTML, basic JavaScript (still learning!)
-- **Tools**: Git, Replit, PyCharm, VS Code, Discord API
-- **Learning**: Flask, GitHub Actions, databases, APIs
+### 🧙 ScapeStats (RuneScape Bot)
+A RuneScape **OSRS / RS3 Discord bot** that provides:
+- 🔎 Player stat lookups
+- 💰 Grand Exchange price checks
+- 🔥 Top-selling item tracking
+- ⚙️ Owner-only admin commands
+- 🕒 Uptime, ping, and guild stats
+- ☁️ Hosted on **Railway via GitHub**
 
 ---
 
-### 📈 GitHub Stats
+## 🎯 My Goals
+
+- 👨‍💻 Become a **strong Python backend developer**
+- 🧠 Master APIs, async programming, and project structure
+- 💼 Land my **first role in tech**
+- 🛠️ Build tools people actually enjoy using
+- 🌱 Contribute to open-source projects
+
+---
+
+## 🧰 Tech Stack & Tools
+
+**Languages**
+- Python 🐍
+- HTML
+- JavaScript (basic, improving)
+
+**Frameworks & Libraries**
+- discord.py
+- aiohttp
+- python-dotenv
+- Flask (learning)
+- SQLite / aiosqlite
+
+**Tools & Platforms**
+- Git & GitHub
+- Railway (deployments)
+- VS Code
+- PyCharm
+- Discord Developer Portal
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreakyPython&show_icons=true&theme=radical)
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
-- Discord: `YourTag#0000`
-- GitHub: [github.com/FreakyPython](https://github.com/FreakyPython)
+- 💬 Discord: *(ask me for my tag)*
+- 🧠 GitHub: https://github.com/FreakyPython
 
 ---
 
-> "Time is more valuable than money. Learn something every day." 💬
+> “Time is more valuable than money. Learn something every day.”
+
