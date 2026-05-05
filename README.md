@@ -1,67 +1,73 @@
-## 👋 Hey there! I'm Noob_Coder
+# 👋 Hey, I'm Noob_Coder
 
-I'm a **self-taught Python developer** with about **1 year of hands-on experience**, focused on building **useful, real-world projects** — especially **Discord bots** and API-driven tools.
+> Self-taught Python developer | Discord bot builder | API enthusiast
 
-I enjoy turning ideas into working systems, learning by building, and improving my code structure with every project 🐍
+I’m a **self-taught Python developer** with ~1 year of hands-on experience building real-world projects — mainly **Discord bots, API tools, and backend systems**.
 
----
-
-## 🛠️ What I'm Working On
-
-### 🚀 MarketPulse 📊
-A real-time **crypto & stock Discord bot** featuring:
-- 📈 Price tracking & summaries
-- 📰 Market news
-- 🧠 Sentiment analysis
-- ⚡ Slash commands & clean embeds
-- ☁️ Deployed with **Git + Railway**
-
-🔗 **Invite the bot**
-[![Invite Bot](https://img.shields.io/badge/Invite%20Bot-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
+I learn best by building, breaking, and improving things step by step 🐍  
+Every project I make is focused on **clean structure, usefulness, and real functionality**.
 
 ---
 
-### 🧙 ScapeStats (RuneScape Bot)
-A RuneScape **OSRS / RS3 Discord bot** that provides:
-- 🔎 Player stat lookups
-- 💰 Grand Exchange price checks
-- 🔥 Top-selling item tracking
-- ⚙️ Owner-only admin commands
-- 🕒 Uptime, ping, and guild stats
-- ☁️ Hosted on **Railway via GitHub**
+## 🚀 Featured Projects
+
+### 📊 MarketPulse
+A real-time **crypto & stock Discord bot** built for market tracking and insights.
+
+**Features:**
+- 📈 Live price tracking & market summaries  
+- 📰 Latest crypto & stock news  
+- 🧠 Sentiment analysis  
+- ⚡ Slash commands + clean embeds  
+- ☁️ Deployed using GitHub + Railway  
+
+🔗 **Invite the bot**  
+[![Invite Bot](https://img.shields.io/badge/Invite%20MarketPulse-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
 
 ---
 
-## 🎯 My Goals
+### 🧙 ScapeStats (OSRS / RS3 Bot)
+A RuneScape Discord bot for player stats, economy tracking, and utilities.
 
-- 👨‍💻 Become a **strong Python backend developer**
-- 🧠 Master APIs, async programming, and project structure
-- 💼 Land my **first role in tech**
-- 🛠️ Build tools people actually enjoy using
-- 🌱 Contribute to open-source projects
+**Features:**
+- 🔎 OSRS / RS3 player lookup  
+- 💰 Grand Exchange price tracking  
+- 🔥 Trending & top items  
+- ⚙️ Admin-only moderation tools  
+- 🕒 Uptime, ping & server stats  
+- ☁️ Hosted via Railway (GitHub CI)
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🎯 Goals
+
+- 🧠 Become a strong **Python backend developer**
+- ⚙️ Master APIs, async systems, and scalable architecture  
+- 💼 Land my first role in tech  
+- 🛠️ Build tools people actually use  
+- 🌍 Contribute to open-source projects  
+
+---
+
+## 🧰 Tech Stack
 
 **Languages**
-- Python 🐍
-- HTML
-- JavaScript (basic, improving)
+- Python 🐍  
+- HTML  
+- JavaScript (learning)
 
-**Frameworks & Libraries**
-- discord.py
-- aiohttp
-- python-dotenv
-- Flask (learning)
-- SQLite / aiosqlite
+**Libraries & Frameworks**
+- discord.py  
+- aiohttp  
+- python-dotenv  
+- Flask (learning)  
+- SQLite / aiosqlite  
 
-**Tools & Platforms**
-- Git & GitHub
-- Railway (deployments)
-- VS Code
-- PyCharm
-- Discord Developer Portal
+**Tools**
+- Git & GitHub  
+- Railway (deployment)  
+- VS Code / PyCharm  
+- Discord Developer Portal  
 
 ---
 
@@ -71,12 +77,12 @@ A RuneScape **OSRS / RS3 Discord bot** that provides:
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-- 💬 Discord: *(ask me for my tag)*
-- 🧠 GitHub: https://github.com/FreakyPython
+- 💬 Discord: *DM me for contact*
+- 🧠 GitHub: https://github.com/FreakyPython  
 
 ---
 
-> “Time is more valuable than money. Learn something every day.”
+> “Build things. Break things. Learn faster than yesterday.”
 
