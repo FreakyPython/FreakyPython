@@ -53,18 +53,7 @@ A RuneScape Discord bot for player stats, economy tracking, and utilities.
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreakyPython&show_icons=true&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-- 💬 Discord: *DM me for contact*
-- 🧠 GitHub: https://github.com/FreakyPython  
-
----
 
 > “Build things. Break things. Learn faster than yesterday.”
 
