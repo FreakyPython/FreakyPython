@@ -7,24 +7,6 @@ I’m a **self-taught Python developer** with ~1 year of hands-on experience bui
 I learn best by building, breaking, and improving things step by step 🐍  
 Every project I make is focused on **clean structure, usefulness, and real functionality**.
 
----
-
-## 🚀 Featured Projects
-
-### 📊 MarketPulse
-A real-time **crypto & stock Discord bot** built for market tracking and insights.
-
-**Features:**
-- 📈 Live price tracking & market summaries  
-- 📰 Latest crypto & stock news  
-- 🧠 Sentiment analysis  
-- ⚡ Slash commands + clean embeds  
-- ☁️ Deployed using GitHub + Railway  
-
-🔗 **Invite the bot**  
-[![Invite Bot](https://img.shields.io/badge/Invite%20MarketPulse-blue?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=1372034775237525554&scope=bot%20applications.commands&permissions=0x00014C01)
-
----
 
 ### 🧙 ScapeStats (OSRS / RS3 Bot)
 A RuneScape Discord bot for player stats, economy tracking, and utilities.
